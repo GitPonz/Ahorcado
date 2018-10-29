@@ -1,0 +1,2 @@
+# Ahorcado
+Programa de ahorcar
